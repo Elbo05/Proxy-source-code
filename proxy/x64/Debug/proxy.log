@@ -1,0 +1,10 @@
+﻿  events.cpp
+C:\Users\SAMSUNG\Desktop\lol\proxy\proton\variant.hpp(322,1): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\proton\variant.hpp(339,1): warning C4267: '=': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\proton\variant.hpp(355,1): warning C4267: 'başlatılıyor': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.cpp(135,26): error C2039: 'saveworld': bir 'events::out' üyesi değil
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.h(8): message : 'events::out' bildirimine bakın
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.cpp(501,19): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.cpp(502,19): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.cpp(862,79): warning C4267: 'bağımsız değişken': 'size_t' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\SAMSUNG\Desktop\lol\proxy\events.cpp(1236,60): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
